@@ -41,18 +41,18 @@
 
 ---
 
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luminous037&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luminous037&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luminous037&theme=solarized&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luminous037&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luminous037&theme=solarized)
+
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luminous037" alt="luminous037" /></a> </p>
 
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luminous037&show_icons=true&locale=en&layout=compact&theme=shadow_green" alt="luminous037" />
-  <img src="https://github-readme-stats.vercel.app/api?username=luminous037&show_icons=true&locale=en&theme=shadow_green" alt="luminous037" />
-</div>
-
-<!-- 빈 줄로 여백 -->
 <br>
-
-
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://ko-fi.com/Ji-ji">
