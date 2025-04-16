@@ -1,7 +1,7 @@
 
 <div align="center">
   <img 
-    src="https://i.imgur.com/QTPq2GC.gif" 
+    src="https://i.imgur.com/kyAienM.gif" 
     alt="MasterHead" 
     style="width: 900px;  max-height: 100px;  object-position: center; border-radius: 10px;"
   />
