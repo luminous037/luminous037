@@ -22,11 +22,11 @@
 
 <h3 align="left">About me:</h3>
 
-- 💻 I’m currently learning **Backend → Django, FastAPI / Frontend → React, Next.js / DevOps → Docker, Docker Compose**
+- I’m currently learning **Backend → Django, FastAPI / Frontend → React, Next.js / DevOps → Docker, Docker Compose**
 
-- 🍓 How to reach me **luminous037@gmail.com**
+- How to reach me **luminous037@gmail.com**
 
-- 🍥 Fun fact **I love plants🪴 and cats🐈‍⬛**
+- Fun fact **I love plants🪴 and cats🐈‍⬛**
 
 
 <h3 align="left">Connect with me:</h3>
