@@ -18,6 +18,7 @@
 
 
 <h3 align="left">About me:</h3>
+
 - 💻 I’m currently learning **Backend → Django, FastAPI / Frontend → React, Next.js / DevOps → Docker, Docker Compose**
 
 - 🍓 How to reach me **luminous037@gmail.com**
