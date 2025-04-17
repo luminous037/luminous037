@@ -9,7 +9,9 @@
 
 
 
-<h1 align="center">🍀 annyeong! I'm Jihyeon Eom </h1>   
+<h1 align="center"> 🌿 annyeong! I'm Jihyeon Eom 
+
+</h1>   
 
 <h3 align="center">🌱 I work on front-end development and web design, while also exploring back-end and DevOps practices. Currently studying computer science and building up my programming skills through frameworks and projects. 🚀 Learning with purpose — aiming to grow, build, and eventually earn from what I create.</h3>
 
@@ -50,7 +52,8 @@
   
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&color=4F6710&width=435&lines=I'm+keep+working+on+them+.+.+." alt="Typing SVG" alt="Typing SVG"/>
-  <img width = "130" src="https://i.pinimg.com/originals/7f/cf/37/7fcf37c760d468cdbd546c0c1d6680c8.gif"  />
+  <img width = "130" src="./Jiji.GIF" >
+  
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luminous037&theme=solarized" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luminous037&theme=solarized" alt="Stats Card" />
@@ -60,10 +63,6 @@
 
   
 </p>
-
-
-
-
 
 
 <br>
