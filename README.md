@@ -51,9 +51,8 @@
 <br>
   
 <p align="center">
+  <img width = "130" src="./Jiji.gif" >
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&color=4F6710&width=435&lines=I'm+keep+working+on+them+.+.+." alt="Typing SVG" alt="Typing SVG"/>
-  <img width = "130" src="./Jiji.GIF" >
-  
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luminous037&theme=solarized" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luminous037&theme=solarized" alt="Stats Card" />
