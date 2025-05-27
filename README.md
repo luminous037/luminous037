@@ -55,7 +55,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&color=4F6710&width=435&lines=I'm+keep+working+on+them+.+.+." alt="Typing SVG" alt="Typing SVG"/>
   <br>
 
-  # pixel-profile
   <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luminous037/luminous037/output/github-stats.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luminous037/luminous037/output/github-stats-dark.png">
@@ -63,9 +62,6 @@
 </picture>
 
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luminous037&theme=solarized" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luminous037&theme=solarized" alt="Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luminous037&theme=solarized&utcOffset=9" alt="Productive Time Card" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luminous037&theme=solarized" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luminous037&theme=solarized" alt="Most Commit Language" />
 
