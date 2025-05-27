@@ -61,11 +61,7 @@
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=luminous037&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
 </picture>
 
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luminous037&theme=solarized" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luminous037&theme=solarized" alt="Most Commit Language" />
 
-  
 </p>
 
 
