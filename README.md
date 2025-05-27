@@ -54,6 +54,14 @@
   <img width = "130" src="./Jiji.gif" >
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&color=4F6710&width=435&lines=I'm+keep+working+on+them+.+.+." alt="Typing SVG" alt="Typing SVG"/>
   <br>
+  
+  <picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-stats.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-stats-dark.png">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=luminous037&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
+</picture>
+
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luminous037&theme=solarized" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luminous037&theme=solarized" alt="Stats Card" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luminous037&theme=solarized&utcOffset=9" alt="Productive Time Card" />
