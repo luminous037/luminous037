@@ -52,18 +52,4 @@ How to reach me: luminous037@gmail.com  <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=FiraCode&size=26&pause=1000&color=000000&background=ffffff&width=435&lines=I'm+keep+working+on+them+.+.+.+." alt="Typing SVG" alt="Typing SVG"/>
 
 
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luminous037" alt="luminous037" /></a> </p>
 
-<br>
-<h3 align="left">Support:</h3>
-
-<p align="left">
-  <a href="https://ko-fi.com/Ji-ji">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ji-ji" />
-  </a>
-
-
-
-  <img src="https://i.pinimg.com/736x/32/37/b0/3237b04695fa072856ea829d44746c1d.jpg" width="80" height="80" alt="cat2" />
-</p>
